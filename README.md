@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-<img  align='right' src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/fullscreen7">
+<img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761193907c45e1ef8ae7a3d5dc7a25a00ee12c787da6&rid=giphy.gif&ct=g">
 I am a junior year computer science and engineering student interested in AI and Machine Learning. Also in every new technology that is making our lives easier!
 
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
