@@ -42,10 +42,10 @@ Pursuing graduate equipped with a Bachelor of Technology in Computer Science Eng
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I'm currently a student at **trash university**.
-- 💻 Major is big data technology and application.
-- 🌱 I'm currently learning **Web development and English**. 
-- 🤔 My hobbies are **playing chess and running**.
+- 👨‍🏛 I'm currently a student at **AKTU**.
+- 💻 Major is big data technology ML/AI and its application.
+- 🌱 I'm currently learning **Web development and Statistics/Data Science**. 
+- 🤔 My hobbies are **playing chess and food🍕**.
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 
@@ -98,10 +98,8 @@ No Activity tracked this Week
 
 
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrperfectpandit=Data Science,Machine Learning,python , c/c++ ,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<!-- <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a> -->
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 
