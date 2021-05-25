@@ -33,12 +33,13 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<div align="center">
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
+</div>
 
  
 <h5 align="center">
