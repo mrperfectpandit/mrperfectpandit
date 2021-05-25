@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://portfolioaman.herokuapp.com/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>   
-</p>
+ </p>
 
 <br>
 <div align="center">
@@ -37,13 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<p align="center">
-📊 **My recent programming status:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-</p>
+
 
  
 <h5 align="center">
@@ -57,5 +51,11 @@ Pursuing graduate equipped with a Bachelor of Technology in Computer Science Eng
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
 
 ⚡ Data Scientist with a passion for delievering valuable data through analytical function and data retrieval methods
+
+📊 **My recent programming status:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 
 
