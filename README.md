@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 </h5>
   
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761193907c45e1ef8ae7a3d5dc7a25a00ee12c787da6&rid=giphy.gif&ct=g">
-<br>
-
 <a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>  <a target="_blank" href="https://www.instagram.com/aman___sharma/">
@@ -35,7 +33,7 @@ Here are some ideas to get you started:
 </a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>  
-
+<br>
 Pursuing graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science eager to join a reputable organization to begin a fulfilling, life long career. Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.
 
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
