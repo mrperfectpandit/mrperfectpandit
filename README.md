@@ -37,7 +37,18 @@ Here are some ideas to get you started:
 
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
 <br>
-Pursuing graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science eager to join a reputable organization to begin a fulfilling, life long career. Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.
+Pursuing graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science eager to join a reputable organization to begin a fulfilling, life long career. Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.<br>
+[GET-Resume](https://drive.google.com/file/d/1gWSBDCR62gTlzbsmUkcea68Bl5MvqWLW/view?usp=sharing)
+
+**Talking about Personal Stuffs:**
+
+- 👨‍🏛 I'm currently a student at **trash university**.
+- 💻 Major is big data technology and application.
+- 🌱 I'm currently learning **Web development and English**. 
+- 🤔 My hobbies are **playing chess and running**.
+- 💼 I am an **obsessive-compulsive disorder**.
+- 💬 If you have any questions, **just ask me**.
+
 
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
 
@@ -68,9 +79,6 @@ No Activity tracked this Week
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -79,7 +87,7 @@ No Activity tracked this Week
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
    
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
