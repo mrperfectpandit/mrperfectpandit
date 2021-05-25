@@ -24,6 +24,7 @@ Here are some ideas to get you started:
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
 </h5>
   
+<p align ="center">
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761193907c45e1ef8ae7a3d5dc7a25a00ee12c787da6&rid=giphy.gif&ct=g">
 <a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 </a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>  
+</p>
 <br>
 Pursuing graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science eager to join a reputable organization to begin a fulfilling, life long career. Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.
 
