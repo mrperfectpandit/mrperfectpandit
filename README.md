@@ -16,16 +16,20 @@ Here are some ideas to get you started:
    <h1>Hi there, I'm <a href="https://portfolioaman.herokuapp.com/">Aman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<div align="center">
-   <a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
+<p align="center">
+<a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>  <a target="_blank" href="https://www.instagram.com/aman___sharma/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>  <a target="_blank" href="mailto:aman.sharmatds1999@gmail.com"> 
+</a>  
+<a target="_blank" href="https://www.instagram.com/aman___sharma/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>  
+<a target="_blank" href="mailto:aman.sharmatds1999@gmail.com"> 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
+</a>  
+<a target="_blank" href="https://portfolioaman.herokuapp.com/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>   
-</div>
+</p>
 
 <br>
 <div align="center">
@@ -33,13 +37,13 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
+<p align="center">
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
-</div>
+</p>
 
  
 <h5 align="center">
