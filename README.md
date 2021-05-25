@@ -16,7 +16,7 @@ Here are some ideas to get you started:
    <h1>Hi there, I'm <a href="https://portfolioaman.herokuapp.com/">Aman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align='center'>
+<div align="center">
    <a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>  <a target="_blank" href="https://www.instagram.com/aman___sharma/">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>   
-</p>
+</div>
 
 <br>
 <div align="center">
@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 </div>
 
 
-<p align="center">
-   📊 **My recent programming status:**
+
+📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
- </p>
+
  
 <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
