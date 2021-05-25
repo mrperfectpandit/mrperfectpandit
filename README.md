@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
 <br>
 Pursuing graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science eager to join a reputable organization to begin a fulfilling, life long career. Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.<br>
-[GET-Resume](https://drive.google.com/file/d/1gWSBDCR62gTlzbsmUkcea68Bl5MvqWLW/view?usp=sharing)
+[!GET-Resume](https://drive.google.com/file/d/1gWSBDCR62gTlzbsmUkcea68Bl5MvqWLW/view?usp=sharing)
 
 **Talking about Personal Stuffs:**
 
@@ -96,6 +96,11 @@ No Activity tracked this Week
 
 </p>
 
+
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrperfectpandit=Data Science,Machine Learning,python , c/c++ ,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <!-- <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a> -->
 
