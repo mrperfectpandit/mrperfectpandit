@@ -16,14 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-<img  align='right' src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jDknYN0aCPtudyMf63Csj0WcqbLRuyEIHKcG7ADvf27">
+<img  align='right' src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/fullscreen7">
 I am a junior year computer science and engineering student interested in AI and Machine Learning. Also in every new technology that is making our lives easier!
 
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/vividha-rawat-761905143/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:rvividha@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&&link=https://medium.com/@rvividha)](https://medium.com/@rvividha) 
+<a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>  <a target="_blank" href="https://www.instagram.com/aman___sharma/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>  <a target="_blank" href="mailto:aman.sharmatds1999@gmail.com"> 
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>   
 
 
 ⚡ Fun question - Do you think machine learning would be that revolutionary if stereotypes didn't exist? :thinking:
