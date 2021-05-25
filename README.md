@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>   
 </p>
 
-
+<br>
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aman Sharma | 💻 Data Scientist | 🛸 India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
