@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
    <h1>Hi there, I'm <a href="https://portfolioaman.herokuapp.com/">Aman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-
-<!-- <p align="center"> -->
+<p align="right">
 <a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>  
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>   
 <!--  </p> -->
-</div>
+
 
 <br>
 <div align="center">
