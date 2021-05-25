@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
 <br>
 Pursuing graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science eager to join a reputable organization to begin a fulfilling, life long career. Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.<br>
-[GET_Resume](https://drive.google.com/file/d/1gWSBDCR62gTlzbsmUkcea68Bl5MvqWLW/view?usp=sharing)
+[![GET_Resume](https://drive.google.com/file/d/1gWSBDCR62gTlzbsmUkcea68Bl5MvqWLW/view?usp=sharing)]
 
 **Talking about Personal Stuffs:**
 
@@ -96,10 +96,7 @@ No Activity tracked this Week
 
 </p>
 
-<p align ="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mrperfectpandit/mrperfectpandit/edit/main/README.md)
 
-   </p>
 
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
