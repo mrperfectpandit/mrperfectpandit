@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
    <h1>Hi there, I'm <a href="https://portfolioaman.herokuapp.com/">Aman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
+
 
 <!-- <p align="center"> -->
 <a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
