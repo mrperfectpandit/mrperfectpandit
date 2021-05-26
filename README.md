@@ -58,7 +58,7 @@ Most of the projects that I have worked on or working on can be found here. If y
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Personality prediction using BERT based uncased model
 ```
 ## 🤝Contact me  
 <a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
