@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br>
 Pursuing graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science eager to join a reputable organization to begin a fulfilling, life long career. Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.
 
-[Resume](https://drive.google.com/file/d/1gWSBDCR62gTlzbsmUkcea68Bl5MvqWLW/view?usp=sharing)
+[Get-Resume](https://drive.google.com/file/d/1zut2ahcvyIoCNgj2DTtsTQ2aeaV7s0Id/view?usp=sharing)
 
 **Talking about Personal Stuffs:**
 
