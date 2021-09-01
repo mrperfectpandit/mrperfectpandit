@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
 <br>
-Recently graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science eager to join a reputable organization to begin a fulfilling, life long career. Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.
+Recently graduate equipped with a Bachelor of Technology in Computer Science Engineering with concentration in Data Science and currently at HP Inc as a Data Scientist.Extensive Knowledge of Data Exploratory , analysis the data , feature engineering , good predicting modelling. Additional Knowledge of how to choose better hyperparameters for constructing a good Deep Learning Models.
 
 [Get-Resume](https://drive.google.com/file/d/1zut2ahcvyIoCNgj2DTtsTQ2aeaV7s0Id/view?usp=sharing)
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I'm currently a student at **AKTU**.
+- 👨‍🏛 I'm currently workink at **HP INC** as a Data Scientist.
 - 💻 Major is big data technology ML/AI and its application.
 - 🌱 I'm currently learning **Web development and Statistics/Data Science**. 
 - 🤔 My hobbies are **playing chess and food🍕**.
