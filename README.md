@@ -33,7 +33,6 @@ Here are some ideas to get you started:
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
 </h5>
   
-<img  align='center' src="https://media3.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b7611e05833080faceaf730be49a3193fc2fcea670026&rid=giphy.gif&ct=g">
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
 <br>
 Data scientist 1 at Hewlett Packard (HP Inc)
@@ -106,5 +105,7 @@ Personality prediction using BERT based uncased model
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
+<img  align='right' src="https://media3.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b7611e05833080faceaf730be49a3193fc2fcea670026&rid=giphy.gif&ct=g">
 
 
