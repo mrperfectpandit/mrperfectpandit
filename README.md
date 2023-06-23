@@ -35,12 +35,13 @@ Here are some ideas to get you started:
   
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
 <br>
-Data scientist 1 at Hewlett Packard (HP Inc)
+Data scientist 1 at General Mills | Ex- HP Inc, UpGrad | CSE'21
 <br>
-CSE'21<br>
-Data Scientist with a passion for delivering valuable data through analytical function and data retrieval methods. Graduated equipped with a Bachelor of Technology in Computer Science Engineering with concentration in DS, ML/AI, currently working at Hewlett Packard Inc as a Data Scientist. 
-
-Analytically minded self-starter with a 1.5+ years of experience in project work, collaborating with cross functional teams and ensuring the accuracy and integrity around data. Assessed 300+ CBSC students at Bootcamp’ to determine there learning weaknesses and needs, successfully helping students perform better in, pre-calculus, statistics and provide flavour of ML, NLP as secondary course.
+Data Scientist with a passion of delivering valuable data through analytical function and data retrieval methods. Graduated equipped with a Bachelor of Technology in Computer Science Engineering with concentration in DS, ML/AI.
+<br>
+Skills: Python. GCP, SQL, Excel, Statistics, Machine Learning, Data Science, Data Analyst, Deep Learning, NLP, Computer Vision, predictive modeling ,visualization tool (Power BI), Clustering and Classification & Regression techniques
+<br>
+Data driven professional with a 2 YOE in Data Science/Analytics, and Machine Learning project work. Collaborated with cross-functional teams and stakeholders to enhance data-driven decision making capabilities by 15%. Increased 10% revenue by contributing PRE tool, resulting in a 25% reduction in error rate for CCC agents. Evaluated and mentored over 300 students at Upgrad Bootcamp, effectively improved students performance in Machine Learning and Data Science.
 
 [Get-Resume](https://drive.google.com/file/d/1zut2ahcvyIoCNgj2DTtsTQ2aeaV7s0Id/view?usp=sharing)
 
