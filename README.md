@@ -35,21 +35,21 @@ Here are some ideas to get you started:
   
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
 <br>
-Data scientist 1 at General Mills | Ex- HP Inc, UpGrad | CSE'21
+Data scientist @ General Mills | Ex-HP Inc , upgrad | CSE'21
 <br>
-Data Scientist with a passion of delivering valuable data through analytical function and data retrieval methods. Graduated equipped with a Bachelor of Technology in Computer Science Engineering with concentration in DS, ML/AI.
+Data driven professional with a 2+ YOE in Analytics, Programming, and ML/DS technical project work. Proven track record in enhancing decision-making capabilities, resulting in a 15% increase in organizational efficiency. Contributed to revenue growth by 10% through the development of a PRE tool, leading to a significant 25% reduction in error rate for CCC agents. Adept at evaluating students, with a proven track record of improving their performance in machine learning and data science. I am passionate about delivering valuable insights through analytical functions and data retrieval methods. With a strong foundation in Computer Science Engineering and a focus on Data Science, Machine Learning, and Artificial Intelligence, I possess expertise in Python, GCP, SQL, and Excel. My skills also encompass Statistics, Machine Learning, Data Analysis, Deep Learning, Natural Language Processing, Computer Vision, predictive modeling, visualization tools like Power BI, as well as Clustering and Classification & Regression techniques.
 <br>
 Skills: Python. GCP, SQL, Excel, Statistics, Machine Learning, Data Science, Data Analyst, Deep Learning, NLP, Computer Vision, predictive modeling ,visualization tool (Power BI), Clustering and Classification & Regression techniques
 <br>
-Data driven professional with a 2 YOE in Data Science/Analytics, and Machine Learning project work. Collaborated with cross-functional teams and stakeholders to enhance data-driven decision making capabilities by 15%. Increased 10% revenue by contributing PRE tool, resulting in a 25% reduction in error rate for CCC agents. Evaluated and mentored over 300 students at Upgrad Bootcamp, effectively improved students performance in Machine Learning and Data Science.
+In addition to technical proficiency, I possess strong soft skills that complement my technical expertise. I excel in crafting compelling narratives that effectively communicate insights through storytelling. My analytical thinking allows me to approach complex problems from various perspectives, enabling the derivation of meaningful insights. With excellent communication skills, I foster collaboration with cross-functional teams and stakeholders, ensuring the seamless adoption of data-driven solutions throughout the organization.
 
 [Get-Resume](https://drive.google.com/file/d/1zut2ahcvyIoCNgj2DTtsTQ2aeaV7s0Id/view?usp=sharing)
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I'm currently workink at **HP INC** as a Data Scientist.
+- 👨‍🏛 I'm currently workink at **General Mills** as a Data Scientist.
 - 💻 Major is big data technology ML/AI and its application.
-- 🌱 I'm currently learning **Web development and Statistics/Data Science**. 
+- 🌱 Data Scientist **Empowers Growth & Innovation by Turning Insights into Action**.
 - 🤔 My hobbies are **playing chess and food🍕**.
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
