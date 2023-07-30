@@ -37,9 +37,12 @@ Here are some ideas to get you started:
 <br>
 Data scientist @ General Mills | Ex-HP Inc , upgrad | CSE'21
 <br>
-Data driven professional with a 2+ YOE in Analytics, Programming, and ML/DS technical project work. Proven track record in enhancing decision-making capabilities, resulting in a 15% increase in organizational efficiency. Contributed to revenue growth by 10% through the development of a PRE tool, leading to a significant 25% reduction in error rate for CCC agents. Adept at evaluating students, with a proven track record of improving their performance in machine learning and data science. I am passionate about delivering valuable insights through analytical functions and data retrieval methods. With a strong foundation in Computer Science Engineering and a focus on Data Science, Machine Learning, and Artificial Intelligence, I possess expertise in Python, GCP, SQL, and Excel. My skills also encompass Statistics, Machine Learning, Data Analysis, Deep Learning, Natural Language Processing, Computer Vision, predictive modeling, visualization tools like Power BI, as well as Clustering and Classification & Regression techniques.
+Data driven professional with a 2+ YOE in Analytics, Programming, and ML/DS technical project work.I am passionate about delivering valuable insights through analytical functions and data retrieval methods. With a strong foundation in Computer Science Engineering and a focus on Data Science, Machine Learning, and Artificial Intelligence, I possess expertise in Python, GCP, SQL, and Excel. My skills also encompass Statistics, Machine Learning, Data Analysis, Deep Learning, Natural Language Processing, Computer Vision, predictive modeling, visualization tools like Power BI, as well as Clustering and Classification & Regression techniques.
+Adept at evaluating students, with a proven track record of improving their performance in machine learning and data science.
+<br>
 <br>
 Skills: Python. GCP, SQL, Excel, Statistics, Machine Learning, Data Science, Data Analyst, Deep Learning, NLP, Computer Vision, predictive modeling ,visualization tool (Power BI), Clustering and Classification & Regression techniques
+<br>
 <br>
 In addition to technical proficiency, I possess strong soft skills that complement my technical expertise. I excel in crafting compelling narratives that effectively communicate insights through storytelling. My analytical thinking allows me to approach complex problems from various perspectives, enabling the derivation of meaningful insights. With excellent communication skills, I foster collaboration with cross-functional teams and stakeholders, ensuring the seamless adoption of data-driven solutions throughout the organization.
 
