@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aman Sharma | 💻 Data Scientist | 🛸 HP Inc India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aman Sharma | 💻 Data Scientist | 🛸 General Mills , EX- {HP Inc, UpGead}<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
    
  ## My interest❤️ 
 
